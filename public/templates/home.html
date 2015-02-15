@@ -1,0 +1,9 @@
+<ul>
+  	<li ng-repeat="val in friends" ng-class="{'text-muted' : !val.isSpecial}">
+    <input ng-model="val.name">
+    <input ng-model="val.age">
+		<button ng-click = "friends.splice($index, 1)" class="btn btn-danger">Remove</button>
+	</li>
+</ul>
+
+<button class="btn btn-primary" ng-click="save()" value="Save" type="button">Save</button>

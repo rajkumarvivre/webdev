@@ -1,0 +1,18 @@
+11 Feb 07:34:28 - [33m[nodemon] v1.2.1[39m
+11 Feb 07:34:28 - [33m[nodemon] to restart at any time, enter `rs`[39m
+11 Feb 07:34:28 - [33m[nodemon] watching: *.*[39m
+11 Feb 07:34:28 - [32m[nodemon] starting `node --debug ./bin/www`[39m
+[0mGET / [36m304 [0m196.721 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.866 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m2.423 ms - -[0m
+[0mGET /javascripts/modules/jquery.js [36m304 [0m2.267 ms - -[0m
+[0mGET /javascripts/modules/bootstrap.js [36m304 [0m2.125 ms - -[0m
+[0mGET /javascripts/modules/angular.js [36m304 [0m2.153 ms - -[0m
+[0mGET /javascripts/modules/angular-route.js [36m304 [0m2.413 ms - -[0m
+[0mGET /javascripts/modules/angular-ui-router.js [36m304 [0m2.350 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.588 ms - -[0m
+[0mGET /templates/header.html [36m304 [0m0.621 ms - -[0m
+[0mGET /templates/home.html [36m304 [0m0.595 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.756 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.909 ms - -[0m
+[0mGET /stylesheets/bootstrap.css.map [36m304 [0m0.563 ms - -[0m

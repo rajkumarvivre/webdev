@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  div(ng-app="app")
+    div(class="container-fluid")
+    header(ng-include="'/templates/header.html'")
+    div(ui-view)
+  
